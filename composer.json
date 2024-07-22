@@ -1,0 +1,23 @@
+{
+    "name": "ankit04/aviasales-flight-search",
+    "description": "This is a package for Laravel and PHP which gives the inbuild functionality for integrate the Aviasales Flights Search API without more trouble",
+    "type": "library",
+    "autoload": {
+      "psr-4": {
+        "Ankit04\\AviasalesFlight\\": "src/"
+      }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ankit Kumar",
+            "email": "ankitkumar103466@gmail.com",
+            "homepage": "https://akintellitech.shopinfinex.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+  }
+  
